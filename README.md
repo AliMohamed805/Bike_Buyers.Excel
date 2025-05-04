@@ -1,6 +1,6 @@
 # 📊 Data Cleaning and Dashboard Project
 
-![Dashboard Preview](Bike_Buyers.Excel/Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## 📝 Overview
 
