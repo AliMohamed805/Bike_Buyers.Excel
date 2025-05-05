@@ -4,7 +4,7 @@
 
 ## 📝 Overview
 
-This project focuses on cleaning a dataset and visualizing insights through an interactive dashboard. It includes the raw and cleaned datasets, Python scripts for preprocessing, and a dashboard to explore the data effectively.
+This project focuses on cleaning a dataset and visualizing insights through an interactive dashboard. It includes the raw and cleaned datasets and a dashboard to explore the data effectively.
 
 ---
 
